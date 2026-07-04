@@ -7,7 +7,7 @@
 <li>🔭 I’m currently working on Flutter </li>
 <li>🌱 I’m currently learning Backend in Node js</li>
 <li>💬 Ask me anything about Flutter</li>
-<li>📫 How to reach me: <a href="https://sheraztanveer358@gmail.com">sheraztanveer358@gmail.com</a></li>
+<li>📫 How to reach me: <a href="mailto:mnaveedpaki@gmail.com">sheraztanveer358@gmail.com</a></li>
 </ul>
 <br>
 <h2 id="connect-with-me-">Connect with me ☕ :</h2>
