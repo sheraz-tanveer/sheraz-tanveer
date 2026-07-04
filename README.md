@@ -12,7 +12,7 @@
 <br>
 <h2 id="connect-with-me-">Connect with me ☕ :</h2>
 <br>
-<p> <a href="https://www.linkedin.com/in/sheraz-tanveer/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@sheraz-tanveer" title="@sheraz-tanveer"></a>&nbsp&nbsp&nbsp<a href="tel:0711971313"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="@0711971313" title="@0711971313"></a>&nbsp&nbsp&nbsp<a href="mailto:sheraztanveer358@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="@anushkaduwolka123@gmail.com" title="@sheraztanveer358@gmail.com"></a></p>
+<p> <a href="https://www.linkedin.com/in/sheraz-tanveer-3503bb319"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@sheraz-tanveer" title="@sheraz-tanveer"></a>&nbsp&nbsp&nbsp<a href="https://github.com/sheraz-tanveer"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="@sheraz-tanveer" title="@0711971313"></a>&nbsp&nbsp&nbsp<a href="mailto:sheraztanveer358@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="@anushkaduwolka123@gmail.com" title="@sheraztanveer358@gmail.com"></a></p>
 <br>
 <h2 id="what-i-am-good-at-">What I am Good at 🧑‍💻 :</h2>
 <br>
